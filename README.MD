@@ -126,8 +126,7 @@ No additional performance results are claimed until they have been reproduced an
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nlp-text-classification-transformers.git
-cd nlp-text-classification-transformers
+git clone https://github.com/ngualteros/nlp-text-classification-transformers.git
 ```
 
 Create a Python virtual environment:
